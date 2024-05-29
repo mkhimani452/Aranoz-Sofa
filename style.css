@@ -295,7 +295,7 @@ ul{
     height: 270px;
     width: 100%;
     /* border: 1px solid black; */
-    background-image: url('img/product_1.png');
+    background-image: url('product_1.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -324,7 +324,7 @@ ul{
     height: 270px;
     width: 100%;
     /* border: 1px solid black; */
-    background-image: url('img/product_2.png');
+    background-image: url('product_2.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -337,7 +337,7 @@ ul{
     height: 270px;
     width: 100%;
     /* border: 1px solid black; */
-    background-image: url('img/product_3.png');
+    background-image: url('product_3.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -351,7 +351,7 @@ ul{
     height: 270px;
     width: 100%;
     /* border: 1px solid black; */
-    background-image: url('img/product_4.png');
+    background-image: url('product_4.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -360,7 +360,7 @@ ul{
     height: 270px;
     width: 100%;
     /* border: 1px solid black; */
-    background-image: url('img/product_5.png');
+    background-image: url('product_5.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -368,7 +368,7 @@ ul{
     height: 270px;
     width: 100%;
     /* border: 1px solid black; */
-    background-image: url('img/product_6.png');
+    background-image: url('product_6.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -376,7 +376,7 @@ ul{
     height: 270px;
     width: 100%;
     /* border: 1px solid black; */
-    background-image: url('img/product_7.png');
+    background-image: url('product_7.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -384,7 +384,7 @@ ul{
     height: 270px;
     width: 100%;
     /* border: 1px solid black; */
-    background-image: url('img/product_8.png');
+    background-image: url('product_8.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -392,7 +392,7 @@ ul{
     height: 270px;
     width: 100%;
     /* border: 1px solid black; */
-    background-image: url('img/product_1.png');
+    background-image: url('product_1.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -567,7 +567,7 @@ ul{
 .mysectionten{
       height: 500px;
       /* border: 1px solid black; */
-      background-image: url('img/subscribe_area.png');
+      background-image: url('subscribe_area.png');
       background-repeat: no-repeat;
       background-size: cover;
       display: flex;
@@ -642,7 +642,7 @@ ul{
     display: flex;
     justify-content: center;
     align-items: center;
-    /* background-image: url('img/client_logo_1.png');
+    /* background-image: url('client_logo_1.png');
     background-repeat: no-repeat;
     background-size: cover; */
     border-top: none;
